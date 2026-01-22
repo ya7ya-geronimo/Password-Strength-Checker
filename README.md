@@ -19,6 +19,8 @@ At least 1 special character
 
 The Python version uses a GUI with Tkinter, making it user-friendly, while the C++ version runs in the console. Both versions give detailed feedback and classify password strength as Weak, Medium, or Strong.
 
+
+
 🚀 Features
 
 ✅ Password strength evaluation
@@ -33,6 +35,9 @@ The Python version uses a GUI with Tkinter, making it user-friendly, while the C
 
 ✅ C++ console version for learning programming basics
 
+
+
+
 💻 Technologies Used
 
 Python 3 with Tkinter for GUI
@@ -40,6 +45,8 @@ Python 3 with Tkinter for GUI
 C++ (Standard Console)
 
 Regular Expressions in Python for pattern matching
+
+
 
 📥 Installation
 Python Version
@@ -78,4 +85,10 @@ Run the program:
 
 ./password_checker
 
+
+
 🖼 Screenshots
+
+
+
+
