@@ -21,6 +21,8 @@ The Python version uses a GUI with Tkinter, making it user-friendly, while the C
 
 
 
+
+
 🚀 Features
 
 ✅ Password strength evaluation
